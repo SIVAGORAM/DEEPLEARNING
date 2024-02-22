@@ -4,10 +4,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@goramsiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@goramsiva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/goram-siva-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goramsivaprasad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/goram-siva-prasad-3779b6232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goramsivaprasad" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_chinna2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_chinna2003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/siva_goram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siva_goram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sivagoram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sivagoram" height="30" width="40" /></a>
+<a href="https://leetcode.com/siva_1811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sivagoram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
